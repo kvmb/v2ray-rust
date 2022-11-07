@@ -412,9 +412,9 @@ dependencies = [
 
 [[package]]
 name = "cidr-utils"
-version = "0.5.7"
+version = "0.5.9"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "9a0c49d94395dc29876e75966ca2176e6c7c2ab117ca99d06937faae6ca89c7b"
+checksum = "355d5b5df67e58b523953d0c1a8d3d2c05f5af51f1332b0199b9c92263614ed0"
 dependencies = [
  "debug-helper",
  "num-bigint",
